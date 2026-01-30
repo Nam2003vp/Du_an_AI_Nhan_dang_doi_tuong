@@ -1,0 +1,11 @@
+train: /home/user0/dataset_last/images/train
+val: /home/user0/dataset_last/images/val
+
+nc: 6
+names:
+  0: nohelmet
+  1: car
+  2: motorcycle
+  3: bus
+  4: bicycle
+  5: truck
