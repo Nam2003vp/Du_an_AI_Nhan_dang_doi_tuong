@@ -74,6 +74,20 @@ Nhãn Helmet / No Helmet
 📌 Kết quả được hiển thị trực tiếp trên video đầu ra.
 
 📊 Kết quả đạt được
+### Phát hiện đối tượng không đội mũ bảo hiểm
+<p align="center">
+  <img width="750" src="https://github.com/user-attachments/assets/3050a86b-8d81-45a5-afd0-5003300a2b5f" />
+</p>
+<p align="center"><em>
+Hệ thống YOLOv8 phát hiện người không đội mũ bảo hiểm với bounding box và nhãn phân loại rõ ràng.
+</em></p>
+### Theo dõi nhiều đối tượng bằng ByteTrack
+<p align="center">
+  <img width="750" src="https://github.com/user-attachments/assets/41d13c5b-6f77-47d4-861c-783165d16ec3" />
+</p>
+<p align="center"><em>
+Thuật toán ByteTrack duy trì ID ổn định cho từng đối tượng khi di chuyển và xuất hiện che khuất ngắn hạn.
+</em></p>
 
 Phát hiện chính xác người và mũ bảo hiểm
 
